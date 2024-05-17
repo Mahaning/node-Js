@@ -1,0 +1,4 @@
+Route level middleware
+apply middleware on single Route
+make middleware in different file
+apply middleware in the group of route

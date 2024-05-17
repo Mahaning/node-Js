@@ -1,0 +1,2 @@
+__dirname----->currunt directory ex(C:\Users\hmani\OneDrive\Desktop\MERN STACK\Node JS )
+__filename----->current file ex( C:\Users\hmani\OneDrive\Desktop\MERN STACK\Node JS\cores.js )

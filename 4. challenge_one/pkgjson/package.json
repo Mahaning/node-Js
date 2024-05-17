@@ -1,0 +1,17 @@
+{
+  "name": "pkgjson",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maha"
+  ],
+  "author": "maha",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}

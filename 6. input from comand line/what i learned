@@ -1,0 +1,3 @@
+set input from command line
+create file with input
+delete file with input

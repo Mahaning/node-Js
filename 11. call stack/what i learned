@@ -1,0 +1,20 @@
+How node works
+---call stack
+---Node API
+---Callback Que
+---Examples
+
+# call stack 
+--- work as registerar for function
+---first main() is called (Full code act as main())
+--- main finishesh at the last
+--- when functions finishes it will exicted
+
+# Node API
+--- when function call started
+--- when external lib are intracted it will load in Node API
+---untill main() fiishes node api will wait
+
+# callback Queue
+--- when finished up is pushed for output based on preiority
+---

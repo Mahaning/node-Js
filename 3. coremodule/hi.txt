@@ -1,0 +1,3 @@
+Hello How are you
+ you are tryinf fs non cores modul
+ and console.log---->console is core module.

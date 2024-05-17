@@ -1,0 +1,24 @@
+#GET method API
+make new file for api
+import and config mongo config
+make api for get data
+test with postman/thunderclient
+
+#POST mthod API
+
+make new post method for api
+send data from postman/thunderclient
+get data in node js by request
+write code to insert data inmongoDB
+
+#PUT method API
+make new PUT method for api
+send data from postman/thunderclient
+get data in node js by request
+write code to update data inmongoDB
+
+#PUT method API
+make new DELETE method for api
+send data from postman/thunderclient
+get data in node js by request
+write code to delete data inmongoDB

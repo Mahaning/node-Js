@@ -1,0 +1,20 @@
+# Basic oprations
+db.createCollaction("newDB")
+db.newDb.drop()
+show dbs
+db.dropDatabase() ///use to drop current db
+
+# CRUD opration
+Insert:-
+db.collectionName.insert()
+ex:db.shop.insert({name:"sh1",type:"kirana",city:"bjp"});
+
+Read:-
+db.collectionName.find()
+Ex:db.shop.find()
+
+update:-
+db.collectionName.updateOne({feildtobeupdated/where clause},{$set:(key:value)})
+
+delete:-
+db.collectionName.deleteOne({value});

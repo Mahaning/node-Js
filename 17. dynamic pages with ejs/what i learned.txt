@@ -1,0 +1,4 @@
+# Dynamic pages
+--how to make loop in ejs
+--make header file
+--show comman header file
